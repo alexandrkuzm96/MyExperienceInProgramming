@@ -1,0 +1,7 @@
+C:\Users\Alexandr\source\repos\1001SimpleNum\1001SimpleNum\bin\Debug\1001SimpleNum.exe.config
+C:\Users\Alexandr\source\repos\1001SimpleNum\1001SimpleNum\bin\Debug\1001SimpleNum.exe
+C:\Users\Alexandr\source\repos\1001SimpleNum\1001SimpleNum\bin\Debug\1001SimpleNum.pdb
+C:\Users\Alexandr\source\repos\1001SimpleNum\1001SimpleNum\obj\Debug\1001SimpleNum.csprojAssemblyReference.cache
+C:\Users\Alexandr\source\repos\1001SimpleNum\1001SimpleNum\obj\Debug\1001SimpleNum.csproj.CoreCompileInputs.cache
+C:\Users\Alexandr\source\repos\1001SimpleNum\1001SimpleNum\obj\Debug\1001SimpleNum.exe
+C:\Users\Alexandr\source\repos\1001SimpleNum\1001SimpleNum\obj\Debug\1001SimpleNum.pdb

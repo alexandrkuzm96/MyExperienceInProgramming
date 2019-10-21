@@ -1,0 +1,7 @@
+C:\Users\Alexandr\source\repos\ProjectOfEller\MinMultiple\MinMultiple\obj\Debug\MinMultiple.csprojAssemblyReference.cache
+C:\Users\Alexandr\source\repos\ProjectOfEller\MinMultiple\MinMultiple\obj\Debug\MinMultiple.csproj.CoreCompileInputs.cache
+C:\Users\Alexandr\source\repos\ProjectOfEller\MinMultiple\MinMultiple\bin\Debug\MinMultiple.exe.config
+C:\Users\Alexandr\source\repos\ProjectOfEller\MinMultiple\MinMultiple\bin\Debug\MinMultiple.exe
+C:\Users\Alexandr\source\repos\ProjectOfEller\MinMultiple\MinMultiple\bin\Debug\MinMultiple.pdb
+C:\Users\Alexandr\source\repos\ProjectOfEller\MinMultiple\MinMultiple\obj\Debug\MinMultiple.exe
+C:\Users\Alexandr\source\repos\ProjectOfEller\MinMultiple\MinMultiple\obj\Debug\MinMultiple.pdb

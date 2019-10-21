@@ -1,0 +1,14 @@
+C:\Users\Alexandr\source\repos\ProjectOfEller\NumsOfFibanachi\NumsOfFibanachi\bin\Debug\NumsOfFibanachi.exe.config
+C:\Users\Alexandr\source\repos\ProjectOfEller\NumsOfFibanachi\NumsOfFibanachi\bin\Debug\NumsOfFibanachi.exe
+C:\Users\Alexandr\source\repos\ProjectOfEller\NumsOfFibanachi\NumsOfFibanachi\bin\Debug\NumsOfFibanachi.pdb
+C:\Users\Alexandr\source\repos\ProjectOfEller\NumsOfFibanachi\NumsOfFibanachi\obj\Debug\NumsOfFibanachi.csprojAssemblyReference.cache
+C:\Users\Alexandr\source\repos\ProjectOfEller\NumsOfFibanachi\NumsOfFibanachi\obj\Debug\NumsOfFibanachi.csproj.CoreCompileInputs.cache
+C:\Users\Alexandr\source\repos\ProjectOfEller\NumsOfFibanachi\NumsOfFibanachi\obj\Debug\NumsOfFibanachi.exe
+C:\Users\Alexandr\source\repos\ProjectOfEller\NumsOfFibanachi\NumsOfFibanachi\obj\Debug\NumsOfFibanachi.pdb
+C:\Users\Alexandr\source\repos\ProjectOfEller\№2 NumsOfFibanachi\NumsOfFibanachi\bin\Debug\NumsOfFibanachi.exe.config
+C:\Users\Alexandr\source\repos\ProjectOfEller\№2 NumsOfFibanachi\NumsOfFibanachi\bin\Debug\NumsOfFibanachi.exe
+C:\Users\Alexandr\source\repos\ProjectOfEller\№2 NumsOfFibanachi\NumsOfFibanachi\bin\Debug\NumsOfFibanachi.pdb
+C:\Users\Alexandr\source\repos\ProjectOfEller\№2 NumsOfFibanachi\NumsOfFibanachi\obj\Debug\NumsOfFibanachi.csprojAssemblyReference.cache
+C:\Users\Alexandr\source\repos\ProjectOfEller\№2 NumsOfFibanachi\NumsOfFibanachi\obj\Debug\NumsOfFibanachi.csproj.CoreCompileInputs.cache
+C:\Users\Alexandr\source\repos\ProjectOfEller\№2 NumsOfFibanachi\NumsOfFibanachi\obj\Debug\NumsOfFibanachi.exe
+C:\Users\Alexandr\source\repos\ProjectOfEller\№2 NumsOfFibanachi\NumsOfFibanachi\obj\Debug\NumsOfFibanachi.pdb

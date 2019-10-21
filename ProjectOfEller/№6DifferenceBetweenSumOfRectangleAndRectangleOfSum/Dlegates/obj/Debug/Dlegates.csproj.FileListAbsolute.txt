@@ -1,0 +1,6 @@
+C:\Users\Alexandr\source\repos\ProjectOfEller\DifferenceBetweenSumOfRectangleAndRectangleOfSum\Dlegates\bin\Debug\Dlegates.dll
+C:\Users\Alexandr\source\repos\ProjectOfEller\DifferenceBetweenSumOfRectangleAndRectangleOfSum\Dlegates\bin\Debug\Dlegates.pdb
+C:\Users\Alexandr\source\repos\ProjectOfEller\DifferenceBetweenSumOfRectangleAndRectangleOfSum\Dlegates\obj\Debug\Dlegates.csprojAssemblyReference.cache
+C:\Users\Alexandr\source\repos\ProjectOfEller\DifferenceBetweenSumOfRectangleAndRectangleOfSum\Dlegates\obj\Debug\Dlegates.csproj.CoreCompileInputs.cache
+C:\Users\Alexandr\source\repos\ProjectOfEller\DifferenceBetweenSumOfRectangleAndRectangleOfSum\Dlegates\obj\Debug\Dlegates.dll
+C:\Users\Alexandr\source\repos\ProjectOfEller\DifferenceBetweenSumOfRectangleAndRectangleOfSum\Dlegates\obj\Debug\Dlegates.pdb

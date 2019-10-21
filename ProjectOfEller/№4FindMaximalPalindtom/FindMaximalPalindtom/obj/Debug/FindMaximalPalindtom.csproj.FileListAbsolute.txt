@@ -1,0 +1,10 @@
+C:\Users\Alexandr\source\repos\ProjectOfEller\FindMaximalPalindtom\FindMaximalPalindtom\bin\Debug\FindMaximalPalindtom.exe.config
+C:\Users\Alexandr\source\repos\ProjectOfEller\FindMaximalPalindtom\FindMaximalPalindtom\bin\Debug\FindMaximalPalindtom.exe
+C:\Users\Alexandr\source\repos\ProjectOfEller\FindMaximalPalindtom\FindMaximalPalindtom\bin\Debug\FindMaximalPalindtom.pdb
+C:\Users\Alexandr\source\repos\ProjectOfEller\FindMaximalPalindtom\FindMaximalPalindtom\bin\Debug\FindMaximalPalindtomLib.dll
+C:\Users\Alexandr\source\repos\ProjectOfEller\FindMaximalPalindtom\FindMaximalPalindtom\bin\Debug\FindMaximalPalindtomLib.pdb
+C:\Users\Alexandr\source\repos\ProjectOfEller\FindMaximalPalindtom\FindMaximalPalindtom\obj\Debug\FindMaximalPalindtom.csprojAssemblyReference.cache
+C:\Users\Alexandr\source\repos\ProjectOfEller\FindMaximalPalindtom\FindMaximalPalindtom\obj\Debug\FindMaximalPalindtom.csproj.CoreCompileInputs.cache
+C:\Users\Alexandr\source\repos\ProjectOfEller\FindMaximalPalindtom\FindMaximalPalindtom\obj\Debug\FindMaximalPalindtom.csproj.CopyComplete
+C:\Users\Alexandr\source\repos\ProjectOfEller\FindMaximalPalindtom\FindMaximalPalindtom\obj\Debug\FindMaximalPalindtom.exe
+C:\Users\Alexandr\source\repos\ProjectOfEller\FindMaximalPalindtom\FindMaximalPalindtom\obj\Debug\FindMaximalPalindtom.pdb

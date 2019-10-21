@@ -1,0 +1,10 @@
+C:\Users\Alexandr\source\repos\SumOfSimpleNum\SumOfSimpleNum\bin\Debug\SumOfSimpleNum.exe.config
+C:\Users\Alexandr\source\repos\SumOfSimpleNum\SumOfSimpleNum\bin\Debug\SumOfSimpleNum.exe
+C:\Users\Alexandr\source\repos\SumOfSimpleNum\SumOfSimpleNum\bin\Debug\SumOfSimpleNum.pdb
+C:\Users\Alexandr\source\repos\SumOfSimpleNum\SumOfSimpleNum\bin\Debug\OperationsWithText.dll
+C:\Users\Alexandr\source\repos\SumOfSimpleNum\SumOfSimpleNum\bin\Debug\OperationsWithText.pdb
+C:\Users\Alexandr\source\repos\SumOfSimpleNum\SumOfSimpleNum\obj\Debug\SumOfSimpleNum.csprojAssemblyReference.cache
+C:\Users\Alexandr\source\repos\SumOfSimpleNum\SumOfSimpleNum\obj\Debug\SumOfSimpleNum.csproj.CoreCompileInputs.cache
+C:\Users\Alexandr\source\repos\SumOfSimpleNum\SumOfSimpleNum\obj\Debug\SumOfSimpleNum.csproj.CopyComplete
+C:\Users\Alexandr\source\repos\SumOfSimpleNum\SumOfSimpleNum\obj\Debug\SumOfSimpleNum.exe
+C:\Users\Alexandr\source\repos\SumOfSimpleNum\SumOfSimpleNum\obj\Debug\SumOfSimpleNum.pdb

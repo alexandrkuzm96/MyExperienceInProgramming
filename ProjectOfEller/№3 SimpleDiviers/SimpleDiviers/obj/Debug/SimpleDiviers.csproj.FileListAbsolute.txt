@@ -1,0 +1,7 @@
+C:\Users\Alexandr\source\repos\SimpleDiviers\SimpleDiviers\bin\Debug\SimpleDiviers.exe.config
+C:\Users\Alexandr\source\repos\SimpleDiviers\SimpleDiviers\bin\Debug\SimpleDiviers.exe
+C:\Users\Alexandr\source\repos\SimpleDiviers\SimpleDiviers\bin\Debug\SimpleDiviers.pdb
+C:\Users\Alexandr\source\repos\SimpleDiviers\SimpleDiviers\obj\Debug\SimpleDiviers.csprojAssemblyReference.cache
+C:\Users\Alexandr\source\repos\SimpleDiviers\SimpleDiviers\obj\Debug\SimpleDiviers.csproj.CoreCompileInputs.cache
+C:\Users\Alexandr\source\repos\SimpleDiviers\SimpleDiviers\obj\Debug\SimpleDiviers.exe
+C:\Users\Alexandr\source\repos\SimpleDiviers\SimpleDiviers\obj\Debug\SimpleDiviers.pdb

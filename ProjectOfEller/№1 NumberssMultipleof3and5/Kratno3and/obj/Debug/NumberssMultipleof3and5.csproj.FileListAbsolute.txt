@@ -1,0 +1,7 @@
+C:\Users\Alexandr\source\repos\ProjectOfEller\№1 NumberssMultipleof3and5\Kratno3and\bin\Debug\Kratno3and.exe.config
+C:\Users\Alexandr\source\repos\ProjectOfEller\№1 NumberssMultipleof3and5\Kratno3and\bin\Debug\Kratno3and.exe
+C:\Users\Alexandr\source\repos\ProjectOfEller\№1 NumberssMultipleof3and5\Kratno3and\bin\Debug\Kratno3and.pdb
+C:\Users\Alexandr\source\repos\ProjectOfEller\№1 NumberssMultipleof3and5\Kratno3and\obj\Debug\NumberssMultipleof3and5.csprojAssemblyReference.cache
+C:\Users\Alexandr\source\repos\ProjectOfEller\№1 NumberssMultipleof3and5\Kratno3and\obj\Debug\NumberssMultipleof3and5.csproj.CoreCompileInputs.cache
+C:\Users\Alexandr\source\repos\ProjectOfEller\№1 NumberssMultipleof3and5\Kratno3and\obj\Debug\Kratno3and.exe
+C:\Users\Alexandr\source\repos\ProjectOfEller\№1 NumberssMultipleof3and5\Kratno3and\obj\Debug\Kratno3and.pdb

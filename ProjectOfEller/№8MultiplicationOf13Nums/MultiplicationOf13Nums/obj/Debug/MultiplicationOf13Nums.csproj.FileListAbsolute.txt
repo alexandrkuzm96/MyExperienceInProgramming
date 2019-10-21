@@ -1,0 +1,7 @@
+C:\Users\Alexandr\source\repos\ProjectOfEller\MultiplicationOf13Nums\MultiplicationOf13Nums\bin\Debug\MultiplicationOf13Nums.exe.config
+C:\Users\Alexandr\source\repos\ProjectOfEller\MultiplicationOf13Nums\MultiplicationOf13Nums\bin\Debug\MultiplicationOf13Nums.exe
+C:\Users\Alexandr\source\repos\ProjectOfEller\MultiplicationOf13Nums\MultiplicationOf13Nums\bin\Debug\MultiplicationOf13Nums.pdb
+C:\Users\Alexandr\source\repos\ProjectOfEller\MultiplicationOf13Nums\MultiplicationOf13Nums\obj\Debug\MultiplicationOf13Nums.csprojAssemblyReference.cache
+C:\Users\Alexandr\source\repos\ProjectOfEller\MultiplicationOf13Nums\MultiplicationOf13Nums\obj\Debug\MultiplicationOf13Nums.csproj.CoreCompileInputs.cache
+C:\Users\Alexandr\source\repos\ProjectOfEller\MultiplicationOf13Nums\MultiplicationOf13Nums\obj\Debug\MultiplicationOf13Nums.exe
+C:\Users\Alexandr\source\repos\ProjectOfEller\MultiplicationOf13Nums\MultiplicationOf13Nums\obj\Debug\MultiplicationOf13Nums.pdb

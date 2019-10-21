@@ -1,0 +1,7 @@
+C:\Users\Alexandr\source\repos\ProjectOfEller\Kratno3and\Kratno3and\bin\Debug\Kratno3and.exe.config
+C:\Users\Alexandr\source\repos\ProjectOfEller\Kratno3and\Kratno3and\bin\Debug\Kratno3and.exe
+C:\Users\Alexandr\source\repos\ProjectOfEller\Kratno3and\Kratno3and\bin\Debug\Kratno3and.pdb
+C:\Users\Alexandr\source\repos\ProjectOfEller\Kratno3and\Kratno3and\obj\Debug\Kratno3and.csprojAssemblyReference.cache
+C:\Users\Alexandr\source\repos\ProjectOfEller\Kratno3and\Kratno3and\obj\Debug\Kratno3and.csproj.CoreCompileInputs.cache
+C:\Users\Alexandr\source\repos\ProjectOfEller\Kratno3and\Kratno3and\obj\Debug\Kratno3and.exe
+C:\Users\Alexandr\source\repos\ProjectOfEller\Kratno3and\Kratno3and\obj\Debug\Kratno3and.pdb

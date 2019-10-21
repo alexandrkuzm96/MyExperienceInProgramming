@@ -1,0 +1,7 @@
+C:\Users\Alexandr\source\repos\ProjectOfEller\ThreeOfPifagor\ThreeOfPifagor\bin\Debug\ThreeOfPifagor.exe.config
+C:\Users\Alexandr\source\repos\ProjectOfEller\ThreeOfPifagor\ThreeOfPifagor\bin\Debug\ThreeOfPifagor.exe
+C:\Users\Alexandr\source\repos\ProjectOfEller\ThreeOfPifagor\ThreeOfPifagor\bin\Debug\ThreeOfPifagor.pdb
+C:\Users\Alexandr\source\repos\ProjectOfEller\ThreeOfPifagor\ThreeOfPifagor\obj\Debug\ThreeOfPifagor.csprojAssemblyReference.cache
+C:\Users\Alexandr\source\repos\ProjectOfEller\ThreeOfPifagor\ThreeOfPifagor\obj\Debug\ThreeOfPifagor.csproj.CoreCompileInputs.cache
+C:\Users\Alexandr\source\repos\ProjectOfEller\ThreeOfPifagor\ThreeOfPifagor\obj\Debug\ThreeOfPifagor.exe
+C:\Users\Alexandr\source\repos\ProjectOfEller\ThreeOfPifagor\ThreeOfPifagor\obj\Debug\ThreeOfPifagor.pdb
