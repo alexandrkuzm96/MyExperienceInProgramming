@@ -1,0 +1,15 @@
+<asp:Calendar runat="server" Border="None" BackColor="#def1f9" 
+BorderColor="Transparent" BorderWidth="1px" CellPadding="1" 
+DayNameFormat="Shortest" Font-Names="Verdana" Font-Size="8pt" 
+ForeColor="#040404" Height="200px" Width="220px"> 
+<SelectedDayStyle BackColor="#009999" Font-Bold="True" 
+ForeColor="#cbe3ed" BorderColor="Transparent"/> <SelectorStyle BackColor="#99CCCC" 
+ForeColor="#def1f9" BorderColor="Transparent"/> <WeekendDayStyle BorderColor="Transparent" BackColor="#c0deff" /> 
+<OtherMonthDayStyle ForeColor="#040404" BorderColor="Transparent"/> 
+<TodayDayStyle BackColor="#99CCCC" ForeColor="White" /> 
+<NextPrevStyle Font-Size="8pt" ForeColor="White" BorderColor="Transparent" /> 
+<DayHeaderStyle BackColor="#477eda" BorderColor="Transparent"
+ForeColor="#040404" Height="1px" /> 
+<TitleStyle BackColor="#4d8ffe" BorderColor="Transparent" 
+BorderWidth="1px" Font-Bold="True" Font-Size="10pt" 
+ForeColor="White" Height="25px" /> </asp:Calendar>
