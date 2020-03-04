@@ -1,17 +1,12 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
+﻿
 namespace MatrixOperationLib
 {
-    public class MatrixOpeerations
+    public class MatrixOpeerations:IMatrixOperation
     {
-        public double[,] SumMatrix( double [,] mas,double[,]mas2,int n)
+        public double[,] SumMatrix(
+            ref double [,] mas,ref double[,]mas2, ref int n)
         {
-
-            double [,] resultMatrix = new double[n, n];
+            double[,] resultMatrix = new double[n,n];
             for(int i = 0; i < n; i++)
             {
                 for(int j = 0; j < n; j++)
@@ -22,35 +17,37 @@ namespace MatrixOperationLib
             return resultMatrix;
         }
 
-        public void SubtructionMatrix(ref double[,] resultMas, double[,] mas,double[,]mas2,int n)
+        public double[,] SubtructionMatrix(
+            ref double[,] mas,ref double[,]mas2,ref int n)
         {
+            double[,] resultMass = new double[n, n];
             for (int i = 0; i < n; i++)
             {
                 for (int j = 0; j < n; j++)
                 {
-                    resultMas[i, j] = mas[i, j] - mas2[i, j];
+                    resultMass[i, j] = mas[i, j] - mas2[i, j];
                 }
             }
+            return resultMass;
         }
 
-        public double [,] MultMatrix(int n,double [,] mas,double[,] mas2)
+        public double [,] MultMatrix( double [,] mas,double[,] mas2, ref int n)
         {
-            double[,] resultMas = new double[n, n];
+            double[,] resMas = new double[n, n];
             for(int row = 0; row < n; row++)
             {
                 for(int col=0; col < n; col++)
                 {
                     for(int inner = 0; inner < n; inner++)
                     {
-                        resultMas[row, col] += mas[row, inner] * mas2[inner, col];
+                        resMas[row, col] += mas[row, inner] * mas2[inner, col];
                     }
                 }
             }
-            return resultMas;
-
+            return resMas;
         }
 
-        public double[,] ExponentMatrix(double[,]resultMas,double [,] mas,int n,int p)
+        public double[,] ExponentMatrix(double[,]resultMas, double [,] mas, int n,int p)
         {
             if (p == 1)
             {
@@ -59,7 +56,7 @@ namespace MatrixOperationLib
             else
             {
 
-                resultMas = MultMatrix(n, resultMas, mas);
+                resultMas = MultMatrix(resultMas,mas,ref n);
                 return  ExponentMatrix(resultMas,mas,n,p-1);
             }
         }

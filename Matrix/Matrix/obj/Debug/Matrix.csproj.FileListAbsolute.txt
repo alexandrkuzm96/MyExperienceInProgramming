@@ -8,3 +8,13 @@ C:\Users\Alexandr\source\repos\Matrix\Matrix\obj\Debug\Matrix.pdb
 C:\Users\Alexandr\source\repos\Matrix\Matrix\bin\Debug\MatrixOperationLib.dll
 C:\Users\Alexandr\source\repos\Matrix\Matrix\bin\Debug\MatrixOperationLib.pdb
 C:\Users\Alexandr\source\repos\Matrix\Matrix\obj\Debug\Matrix.csproj.CopyComplete
+C:\Users\Alexandr\source\repository\Matrix\Matrix\bin\Debug\Matrix.exe.config
+C:\Users\Alexandr\source\repository\Matrix\Matrix\bin\Debug\Matrix.exe
+C:\Users\Alexandr\source\repository\Matrix\Matrix\bin\Debug\Matrix.pdb
+C:\Users\Alexandr\source\repository\Matrix\Matrix\bin\Debug\MatrixOperationLib.dll
+C:\Users\Alexandr\source\repository\Matrix\Matrix\bin\Debug\MatrixOperationLib.pdb
+C:\Users\Alexandr\source\repository\Matrix\Matrix\obj\Debug\Matrix.csprojAssemblyReference.cache
+C:\Users\Alexandr\source\repository\Matrix\Matrix\obj\Debug\Matrix.csproj.CoreCompileInputs.cache
+C:\Users\Alexandr\source\repository\Matrix\Matrix\obj\Debug\Matrix.csproj.CopyComplete
+C:\Users\Alexandr\source\repository\Matrix\Matrix\obj\Debug\Matrix.exe
+C:\Users\Alexandr\source\repository\Matrix\Matrix\obj\Debug\Matrix.pdb

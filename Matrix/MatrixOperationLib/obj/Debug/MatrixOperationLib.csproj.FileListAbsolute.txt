@@ -4,3 +4,9 @@ C:\Users\Alexandr\source\repos\Matrix\MatrixOperationLib\obj\Debug\MatrixOperati
 C:\Users\Alexandr\source\repos\Matrix\MatrixOperationLib\obj\Debug\MatrixOperationLib.csproj.CoreCompileInputs.cache
 C:\Users\Alexandr\source\repos\Matrix\MatrixOperationLib\obj\Debug\MatrixOperationLib.dll
 C:\Users\Alexandr\source\repos\Matrix\MatrixOperationLib\obj\Debug\MatrixOperationLib.pdb
+C:\Users\Alexandr\source\repository\Matrix\MatrixOperationLib\bin\Debug\MatrixOperationLib.dll
+C:\Users\Alexandr\source\repository\Matrix\MatrixOperationLib\bin\Debug\MatrixOperationLib.pdb
+C:\Users\Alexandr\source\repository\Matrix\MatrixOperationLib\obj\Debug\MatrixOperationLib.csprojAssemblyReference.cache
+C:\Users\Alexandr\source\repository\Matrix\MatrixOperationLib\obj\Debug\MatrixOperationLib.csproj.CoreCompileInputs.cache
+C:\Users\Alexandr\source\repository\Matrix\MatrixOperationLib\obj\Debug\MatrixOperationLib.dll
+C:\Users\Alexandr\source\repository\Matrix\MatrixOperationLib\obj\Debug\MatrixOperationLib.pdb

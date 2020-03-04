@@ -43,8 +43,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Facade.cs" />
+    <Compile Include="IInputValues.cs" />
+    <Compile Include="IShowInformation.cs" />
     <Compile Include="MatrixOperation.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Information .cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
