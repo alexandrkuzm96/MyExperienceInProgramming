@@ -1,0 +1,15 @@
+C:\Users\Alexandr\source\repos\WPF\CriptorEncriptor\CriptorEncriptor\bin\Debug\CriptorEncriptor.exe.config
+C:\Users\Alexandr\source\repos\WPF\CriptorEncriptor\CriptorEncriptor\bin\Debug\CriptorEncriptor.exe
+C:\Users\Alexandr\source\repos\WPF\CriptorEncriptor\CriptorEncriptor\bin\Debug\CriptorEncriptor.pdb
+C:\Users\Alexandr\source\repos\WPF\CriptorEncriptor\CriptorEncriptor\obj\Debug\CriptorEncriptor.csprojAssemblyReference.cache
+C:\Users\Alexandr\source\repos\WPF\CriptorEncriptor\CriptorEncriptor\obj\Debug\MainWindow.g.cs
+C:\Users\Alexandr\source\repos\WPF\CriptorEncriptor\CriptorEncriptor\obj\Debug\App.g.cs
+C:\Users\Alexandr\source\repos\WPF\CriptorEncriptor\CriptorEncriptor\obj\Debug\CriptorEncriptor_MarkupCompile.cache
+C:\Users\Alexandr\source\repos\WPF\CriptorEncriptor\CriptorEncriptor\obj\Debug\CriptorEncriptor_MarkupCompile.lref
+C:\Users\Alexandr\source\repos\WPF\CriptorEncriptor\CriptorEncriptor\obj\Debug\MainWindow.baml
+C:\Users\Alexandr\source\repos\WPF\CriptorEncriptor\CriptorEncriptor\obj\Debug\CriptorEncriptor.g.resources
+C:\Users\Alexandr\source\repos\WPF\CriptorEncriptor\CriptorEncriptor\obj\Debug\CriptorEncriptor.Properties.Resources.resources
+C:\Users\Alexandr\source\repos\WPF\CriptorEncriptor\CriptorEncriptor\obj\Debug\CriptorEncriptor.csproj.GenerateResource.cache
+C:\Users\Alexandr\source\repos\WPF\CriptorEncriptor\CriptorEncriptor\obj\Debug\CriptorEncriptor.csproj.CoreCompileInputs.cache
+C:\Users\Alexandr\source\repos\WPF\CriptorEncriptor\CriptorEncriptor\obj\Debug\CriptorEncriptor.exe
+C:\Users\Alexandr\source\repos\WPF\CriptorEncriptor\CriptorEncriptor\obj\Debug\CriptorEncriptor.pdb
