@@ -4,6 +4,89 @@
              xmlns:local="clr-namespace:CriptorEncriptor"
              StartupUri="MainWindow.xaml">
     <Application.Resources>
-         
+        <Style TargetType="Window" x:Key="WindowStyle">
+            <Setter Property="FontSize" Value="16"/>
+        </Style>
+        <Style TargetType="RadioButton" x:Key="RadioStyle">
+            <Setter Property="FontSize" Value="16"/>
+            <Setter Property="Margin" Value="10 5"/>
+            <Setter Property="VerticalContentAlignment"  Value="Center"/>
+        </Style>
+        <Style TargetType="Label" x:Key="LabelStyle">
+            <Setter Property="FontSize" Value="16"/>
+            <Setter Property="VerticalAlignment" Value="Center"/>
+            <Setter Property="VerticalContentAlignment" Value="Center"/>
+        </Style>
+        <Style TargetType="TextBlock" x:Key="TextBlockStyle">
+            <Setter Property="HorizontalAlignment" Value="Center"/>
+        </Style>
+        <Style TargetType="TextBox" x:Key="TextBoxStyle">
+            <Setter Property="Height" Value="350"/>
+            <Setter Property="BorderThickness" Value="1"/>
+            <Setter Property="BorderBrush" Value="Black"/>
+            <Setter Property="AcceptsReturn" Value="True"/>
+            <Setter Property="TextWrapping" Value="Wrap"/>
+            <Setter Property="VerticalScrollBarVisibility" Value="Auto"/>
+        </Style>
+        <Style TargetType="Button" x:Key="ButtonStyle">
+            <Setter Property="Background" Value="White"/>
+            <Setter Property="FontSize" Value="16"/>
+            <Setter Property="Padding" Value="5 10"/>
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate  TargetType="Button">
+                        <Border Name="BorderStyle" CornerRadius="20"
+                                BorderBrush="Black" BorderThickness="2"
+                                Background="White"
+                                Margin="5 10">
+                            <ContentPresenter Margin="5 10"/>
+                        </Border>
+                        <ControlTemplate.Triggers>
+                            <EventTrigger RoutedEvent="Button.MouseEnter">
+                                <EventTrigger.Actions>
+                                    <BeginStoryboard>
+                                        <Storyboard>
+                                            <ColorAnimation
+                                             Storyboard.TargetName="BorderStyle"
+                                                Storyboard.TargetProperty="Background.Color"
+                                                To="Black" Duration="0:0:0.5"/>
+                                            <ColorAnimation                                             
+                                                Storyboard.TargetProperty="Foreground.Color"
+                                                To="White" Duration="0:0:0.5"/>
+                                            <DoubleAnimation
+                                             Storyboard.TargetName="BorderStyle"
+                                                Storyboard.TargetProperty="(Button.Opacity)"
+                                                To="0.9" Duration="0:0:0.5"/>
+                                        </Storyboard>
+                                    </BeginStoryboard>
+                                </EventTrigger.Actions>
+                            </EventTrigger>
+                            <EventTrigger RoutedEvent="Button.MouseLeave">
+                                <EventTrigger.Actions>
+                                    <BeginStoryboard>
+                                        <Storyboard>
+
+                                            <ColorAnimation
+                                             Storyboard.TargetName="BorderStyle"
+                                                Storyboard.TargetProperty="Background.Color"
+                                                To="White" Duration="0:0:0.5"/>
+                                            <ColorAnimation                                             
+                                                Storyboard.TargetProperty="Foreground.Color"
+                                                To="Black" Duration="0:0:0.5"/>
+                                            <DoubleAnimation
+                                             Storyboard.TargetName="BorderStyle"
+                                                Storyboard.TargetProperty="(Button.Opacity)"
+                                                To="1" Duration="0:0:0.5"/>
+
+                                        </Storyboard>
+                                    </BeginStoryboard>
+                                </EventTrigger.Actions>
+                            </EventTrigger>
+                        </ControlTemplate.Triggers>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+
     </Application.Resources>
 </Application>

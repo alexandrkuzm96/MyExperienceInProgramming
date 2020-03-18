@@ -5,12 +5,13 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:CriptorEncriptor"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
+        Title="MainWindow" Height="450" Width="800"
+        Style="{StaticResource WindowStyle}">
     <Grid>
         <Grid.RowDefinitions>
             <RowDefinition Height="25px"/>
             <RowDefinition/>
-            <RowDefinition Height="25px"/>
+            <RowDefinition Height="auto"/>
         </Grid.RowDefinitions>
         <Grid.ColumnDefinitions>
             <ColumnDefinition/>
@@ -18,29 +19,37 @@
         </Grid.ColumnDefinitions>
         <WrapPanel>
         <RadioButton x:Name="Caesar" Content="Шифр цезаря" Checked="CaesarChecked"
-                 IsChecked="False"  GroupName="CriptType" />
+                 IsChecked="False"  GroupName="CriptType"
+                     Style="{StaticResource RadioStyle}"/>
         <RadioButton x:Name="Vigener" Content="Шифр Виженера" Checked="VigenerChecked" 
+                     Style="{StaticResource RadioStyle}"
                      IsChecked="False" GroupName="CriptType"/>
         </WrapPanel>
         <DockPanel Grid.Column="1">
-            <Label Content="шаг"/>
+            <Label Content="шаг" Style="{StaticResource LabelStyle}"/>
             <TextBox x:Name="step" Text="0" Width="50" KeyDown="Step_KeyDown"/>
-            <Label Content="ключевое слово"/>
+            <Label Content="ключевое слово" Style="{StaticResource LabelStyle}"/>
             <TextBox x:Name="keyWord"/>
         </DockPanel>
         <StackPanel Grid.Row="1">
-            <TextBlock Text="Исходный текст"/>
-            <TextBox x:Name="SourceText" Height="350"/>
+            <TextBlock Text="Исходный текст" Style="{StaticResource TextBlockStyle}"/>
+            <TextBox x:Name="SourceText"
+                     Style="{StaticResource TextBoxStyle}"/>
         </StackPanel>      
         <StackPanel Grid.Row="1" Grid.Column="1">
-            <TextBlock Text="Итоговый текст"/>
-            <TextBox x:Name="ConvertedText" Height="350"/>
+            <TextBlock Text="Итоговый текст" Style="{StaticResource TextBlockStyle}"/>
+            <TextBox x:Name="ConvertedText" 
+                     Style="{StaticResource TextBoxStyle}"/>
         </StackPanel>
         <WrapPanel Grid.Row="2" Grid.ColumnSpan="2">
-            <Button Content="Открыть файл" Click="OpenFileClick"/>
-            <Button Content="Сохранить файл" Click="SaveFileClick"/>
-            <Button Content="Защифровать" Click="CriptClick"/>
-            <Button Content="Расшифровать" Click="EncriptClick"/>
+            <Button Content="Открыть файл" Click="OpenFileClick"
+                    Style="{StaticResource ButtonStyle}"/>
+            <Button Content="Сохранить файл" Click="SaveFileClick"
+                    Style="{StaticResource ButtonStyle}"/>
+            <Button Content="Защифровать" Click="CriptClick"
+                    Style="{StaticResource ButtonStyle}"/>
+            <Button Content="Расшифровать" Click="EncriptClick"
+                    Style="{StaticResource ButtonStyle}"/>
         </WrapPanel>
     </Grid>
 </Window>
