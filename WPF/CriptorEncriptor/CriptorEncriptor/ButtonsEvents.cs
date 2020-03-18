@@ -15,7 +15,7 @@ namespace CriptorEncriptor
         private string text="";
 
 
-        public string OpenFile()
+        public async Task<string> OpenFile()
         {
             OpenFileDialog ofd = new OpenFileDialog();
             ofd.Filter = "txt files(*.txt)|*.txt";
@@ -25,7 +25,7 @@ namespace CriptorEncriptor
                 {                    
                     using (StreamReader sr = new StreamReader(ofd.FileName))
                     {
-                        text = sr.ReadToEnd();
+                        text =await sr.ReadToEndAsync();
                     }
                 }       
             }

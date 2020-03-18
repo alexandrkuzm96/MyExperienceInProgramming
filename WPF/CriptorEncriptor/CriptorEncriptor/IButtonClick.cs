@@ -4,7 +4,7 @@ namespace CriptorEncriptor
 {
     public interface IButtonClick
     {
-        string OpenFile();
+        Task<string> OpenFile();
         void SaveFile(string message);        
     }
 }

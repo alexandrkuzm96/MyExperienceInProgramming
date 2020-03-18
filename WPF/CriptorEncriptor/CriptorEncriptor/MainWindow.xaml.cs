@@ -17,9 +17,9 @@ namespace CriptorEncriptor
         {
             InitializeComponent();
         }
-        private void OpenFileClick(object sender, RoutedEventArgs e)
+        private async void OpenFileClick(object sender, RoutedEventArgs e)
         {
-            SourceText.Text = buttonEvent.OpenFile();
+            SourceText.Text =await buttonEvent.OpenFile();
         }
         private void SaveFileClick(object sender, RoutedEventArgs e)
         {
