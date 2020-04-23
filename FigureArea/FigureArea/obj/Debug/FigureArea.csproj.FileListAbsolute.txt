@@ -1,0 +1,6 @@
+C:\Users\Alexandr\source\repos\FigureArea\FigureArea\bin\Debug\FigureArea.dll
+C:\Users\Alexandr\source\repos\FigureArea\FigureArea\bin\Debug\FigureArea.pdb
+C:\Users\Alexandr\source\repos\FigureArea\FigureArea\obj\Debug\FigureArea.csprojAssemblyReference.cache
+C:\Users\Alexandr\source\repos\FigureArea\FigureArea\obj\Debug\FigureArea.csproj.CoreCompileInputs.cache
+C:\Users\Alexandr\source\repos\FigureArea\FigureArea\obj\Debug\FigureArea.dll
+C:\Users\Alexandr\source\repos\FigureArea\FigureArea\obj\Debug\FigureArea.pdb
